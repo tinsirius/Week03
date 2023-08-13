@@ -1,4 +1,4 @@
-FROM tinsirius/ece4078_prac:focal-ca5e97b
+FROM tinsirius/ece4078_prac:focal-870061e
 
 RUN python3 -m pip install --no-cache-dir notebook==6.4.8 jupyterlab==4.0.3 ipympl==0.9.3 ipywidgets==8.0.7
 
